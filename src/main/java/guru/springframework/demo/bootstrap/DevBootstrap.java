@@ -27,10 +27,6 @@ public class DevBootstrap implements ApplicationListener<ContextRefreshedEvent> 
         Publisher publisher1 = new Publisher("foo", "garbage");
         Publisher publisher2 = new Publisher("foo2", "trash");
 
-
-
-
-
         //Eric
         Author eric = new Author("Eric", "Evans");
 
